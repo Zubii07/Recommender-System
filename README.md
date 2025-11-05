@@ -36,7 +36,7 @@ It leverages:
 ---
 
 ## 🗂️ **Project Structure**
-
+```bash
 movie-recommender/
 │
 ├── app.py # Streamlit app entry point
@@ -46,7 +46,7 @@ movie-recommender/
 ├── .gitignore # Ignored files and folders
 ├── README.md # Project documentation
 └── model.ipynb (optional) # Notebook for model training
-
+````
 
 ---
 
