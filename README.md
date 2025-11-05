@@ -7,12 +7,10 @@
 
    A **content-based movie recommender system** built with **Streamlit**, designed to suggest movies similar to a user-selected title using precomputed similarity scores.
 
----
 
   ## 🚀 **Live Demo**
    🔗 [**Click here to try the app on Streamlit Cloud**] https://zubii07-recommender-system-app-q0pzke.streamlit.app/
 
----
 
   ## 🧠 **About the Project**
 
@@ -24,7 +22,6 @@
    - **Pickle** for serialized model storage  
    - **Streamlit** for a simple, interactive UI
 
----
 
   ## 🧩 **How It Works**
 
@@ -33,7 +30,6 @@
    3. When you select a movie, it finds the most similar titles using cosine similarity  
    4. The recommendations are displayed instantly with movie posters and names
 
----
 
   ## 🗂️ **Project Structure**
 
@@ -50,8 +46,6 @@
    └── model.ipynb (optional) # Notebook for model training
 
 ````
-
----
 
 ## 🧰 **Installation and Setup**
 
@@ -73,8 +67,6 @@ Run the app locally:
 streamlit run app.py
 ```
 
----
-
 ## ☁️ **Deployment**
 
 This project is deployed on **Streamlit Cloud**.
@@ -89,7 +81,6 @@ If you wish to redeploy:
 2. Push to your own GitHub account
 3. Deploy via [Streamlit Cloud](https://share.streamlit.io)
 
----
 
 ## 📦 **Dependencies**
 
@@ -104,7 +95,6 @@ Main packages used:
 
 All dependencies are listed in [`requirements.txt`](./requirements.txt).
 
----
 
 ## 🧑‍💻 **Author**
 
@@ -112,7 +102,7 @@ All dependencies are listed in [`requirements.txt`](./requirements.txt).
 
 If you like this project, consider giving it a ⭐ on GitHub — it helps others find it!
 
----
+```
 
 ## ⚖️ **License**
 
