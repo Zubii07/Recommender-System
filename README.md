@@ -1,6 +1,4 @@
-Excellent 🎉 — congrats on deploying your Streamlit movie recommender app!
-
-```m
+```
 # 🎬 Movie Recommender System
 
 [![Streamlit App](https://img.shields.io/badge/Deployed%20on-Streamlit-brightgreen?logo=streamlit)](https://share.streamlit.io/)  
@@ -121,6 +119,5 @@ If you like this project, consider giving it a ⭐ on GitHub — it helps others
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
-
-Would you like me to generate a **version with an “Architecture & Flow Diagram” section** (showing how the data flows from `.pkl` → recommender → UI)? It makes the README look more professional for portfolios.
+.
 ```
