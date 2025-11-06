@@ -95,6 +95,7 @@ Main packages used:
 * `streamlit`
 * `pandas`
 * `numpy`
+* `nltk`
 * `scikit-learn`
 * `requests`
 * `pickle`
